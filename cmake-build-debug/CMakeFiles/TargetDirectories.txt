@@ -1,0 +1,3 @@
+C:/Users/Karl/Desktop/ENIGMA/1st year/C/projects/HelloSDL2025/cmake-build-debug/CMakeFiles/HelloSDL2025.dir
+C:/Users/Karl/Desktop/ENIGMA/1st year/C/projects/HelloSDL2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Karl/Desktop/ENIGMA/1st year/C/projects/HelloSDL2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
